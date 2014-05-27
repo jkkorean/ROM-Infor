@@ -1,0 +1,11 @@
+DeskClock.apk
+Dialer.apk
+framework-res.apk
+LockClock.apk
+MahdiSetupWizard.apk
+Mms.apk
+OmniSwitch.apk
+Settings.apk
+SystemUI.apk
+TeleService.apk
+ThemeChooser.apk

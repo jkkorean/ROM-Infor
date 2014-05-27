@@ -1,3 +1,5 @@
+DashClock.apk
+DeskClock.apk
 Dialer.apk
 framework-res.apk
 Mms.apk
@@ -7,3 +9,4 @@ SlimFileManager.apk
 SpareParts.apk
 SystemUI.apk
 TeleService.apk
+Torch.apk

@@ -1,3 +1,4 @@
+CMAccount.apk
 CMFileManager.apk
 DeskClock.apk
 Dialer.apk
@@ -9,3 +10,4 @@ SystemUI.apk
 TeleService.apk
 ThemeChooser.apk
 ThemeManager.apk
+Torch.apk

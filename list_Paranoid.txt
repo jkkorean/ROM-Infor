@@ -1,0 +1,7 @@
+Dialer.apk
+framework-res.apk
+Lightbulb.apk
+Mms.apk
+Settings.apk
+SystemUI.apk
+TeleService.apk

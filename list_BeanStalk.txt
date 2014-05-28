@@ -1,13 +1,12 @@
-Contacts.apk
 DashClock.apk
+DeskClock.apk
 Dialer.apk
-Email.apk
 framework-res.apk
-HALO.apk
+LockClock.apk
 Mms.apk
-Phone.apk
 Settings.apk
 SystemUI.apk
+TeleService.apk
 ThemeChooser.apk
 ThemeManager.apk
-Trebuchet.apk
+Torch.apk

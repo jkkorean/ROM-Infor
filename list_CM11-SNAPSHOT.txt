@@ -9,5 +9,4 @@ Settings.apk
 SystemUI.apk
 TeleService.apk
 ThemeChooser.apk
-ThemeManager.apk
 Torch.apk
